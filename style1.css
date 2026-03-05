@@ -1,0 +1,32 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Ysabeau', sans-serif;
+}
+
+.table{
+    text-align: center;
+    width: 650px;
+}
+
+td{
+    height: 150px;
+    width: 650px;
+}
+
+.table td .header{
+    background-color: #ffff;
+}
+
+.table td .explain{
+    background-color: #180246;
+}
+
+.table td .team{
+    background-color: #D9D9D9;
+}
+
+.table td .footer{
+    background-color: #272727;
+}
